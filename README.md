@@ -1,6 +1,6 @@
 # Machine-Learning-From-Scratch-Without-Libraries
 
-Tools used: Python, Latex (for writing Maths equations), Numpy, Matplotlib
+Tools used: Python, Latex (for writing Maths equations), Numpy, Matplotlib and Pandas
 
 The notebooks in this repo will all be written without machine learning libraries. The main objective of this repo is to establish inference understanding. 
 
