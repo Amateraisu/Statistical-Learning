@@ -1,9 +1,7 @@
-# Machine-Learning-From-Scratch-Without-Libraries
+# Statistical Learning
 
-Tools used: Python, Latex (for writing Maths equations), Numpy, Matplotlib and Pandas
+Tools used: Python, Latex (for writing Maths equations), Numpy, Matplotlib and Pandas, Sklearn
 
-The notebooks in this repo will all be written without machine learning libraries. The main objective of this repo is to establish inference understanding. 
+All will reflect my learning of ML/ Statistics
 
-Therefore, the datasets will be quite simple as the focus is on the Maths and Process behind each Algorithm.
 
-Every file will be clearly written with the process documented, have a look!
